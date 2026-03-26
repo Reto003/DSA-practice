@@ -1,6 +1,6 @@
 //* main motive to identify which half should be eleminated
 
-public class searchInRotatedSortedArray {
+public class searchInRotatedSortedArray_1{
 
   // public static void mine(int arr[], int x){
   //   int n = arr.length;
