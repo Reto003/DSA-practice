@@ -33,7 +33,7 @@ public class Hashset{
     while(it.hasNext()){
       System.out.println(it.next());
     }
-    //instead of itretor we can use enhanced forloop (for each)
+    //instead of itretor we can use enhanced forloop like (for each)
     for(int val: set){
       System.out.println(val);
     }
