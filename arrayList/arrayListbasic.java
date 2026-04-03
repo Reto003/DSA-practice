@@ -4,7 +4,7 @@ import java.util.Collections;
 public class arrayListbasic {
   public static void main(String[] args) {
     ArrayList<Integer> list = new ArrayList<>();
-
+    
     // add elements
     list.add(5);
     list.add(4);
@@ -18,7 +18,7 @@ public class arrayListbasic {
     list.add(1, 9);
     System.out.println(list);
 
-    // set element
+    // set elementz
     list.set(2, 10);
     System.out.println(list);
 
